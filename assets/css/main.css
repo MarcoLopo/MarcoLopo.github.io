@@ -3954,7 +3954,11 @@ input, select, textarea {
 		-ms-flex-shrink: 1;
 		flex-shrink: 1;
 		height: 100%;
-		padding: 5rem;
+		/*padding: 5rem;*/
+		padding-top: 15rem;
+		padding-right: 5rem;
+		padding-bottom: 5rem;
+		padding-left: 50rem;
 	}
 
 		@media screen and (orientation: portrait) {
